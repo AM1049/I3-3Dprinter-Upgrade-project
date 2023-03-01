@@ -1,6 +1,6 @@
 # I3-3Dprinter-Upgrade-project
 This 3d printer based on prusa i3 structure, improve the machine structure framework, add the lower motherboard and power supply bin, y-axis using double line rail, x-axis using conventional screw, optimize the air duct design, recommended to use marlin firmware, also support klipper firmware motherboard
-![Uploading assembled.png…]
+![assembled](https://user-images.githubusercontent.com/126187580/222129277-97511d33-47e7-4cea-9c28-1af7229e3104.png)
 ASSEMBLE VIEW!
 ![x轴热端](https://user-images.githubusercontent.com/126187580/222129130-cede1bc6-acf0-4ebf-9492-7073118d4383.png)
 TOOLHEADS
